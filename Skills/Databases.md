@@ -36,43 +36,43 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
-  - `REVOKE`
-  - `DENY`
-  - `EXPLAIN`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
+  - `LIMIT` k
+  - `OFFSET` k
+  - `ORDER BY` k
+  - `GROUP BY` k
+  - `HAVING` k
+  - `EXISTS` k
+  - `JOIN` k
+  - `INNER JOIN` 
+  - `LEFT JOIN` 
+  - `RIGHT JOIN` 
+  - `UNION` 
+  - `DISTINCT` k 
+  - `WHERE` k
+  - `LIKE` k
+  - `IN` k
+  - `BETWEEN` k
+  - `CREATE TABLE` k
+  - `ALTER TABLE` k
+  - `DROP TABLE` k
+  - `PRIMARY KEY` 
+  - `FOREIGN KEY` 
+  - `CHECK` 
+  - `DEFAULT` 
+  - `INDEX` 
+  - `UNIQUE` 
+  - `GRANT` 
+  - `REVOKE` 
+  - `DENY` 
+  - `EXPLAIN` 
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle k
+  - MySQL k
   - MariaDB
   - MS SQL Server
   - Redis

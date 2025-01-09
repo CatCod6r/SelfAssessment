@@ -17,8 +17,8 @@
   - Library u
   - Package u
   - Component
-  - Framework 
-  - Platform 
+  - Framework u
+  - Platform u
   - Source code u
   - Object code u
   - Machine code u
@@ -39,7 +39,7 @@
   - Scalar h
   - Literal u
   - Expression u
-  - Heap 
+  - Heap u
   - Function u
   - Procedure h 
   - Method u
@@ -56,12 +56,12 @@
   - Regular expression u
   - Interface u
   - Namespaces u
-  - Call stack 
-  - Naming conventions 
-  - Coding conventions 
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
   - Camel case u
-  - Snake case 
-  - Kebab case 
+  - Snake case u
+  - Kebab case u
   - Trailing commas
   - Return early u
   - Fail-fast u
@@ -87,13 +87,13 @@
   - Pure function u
   - Lambda expression u
   - Side effects 
-  - Closure 
+  - Closure u
   - Partial application
   - Currying
-  - Higher order 
-  - Recursion 
+  - Higher order u
+  - Recursion u
   - Tail call optimisation
-  - Callback 
+  - Callback u
   - Listener u
   - Composition u
   - Pipe
@@ -119,16 +119,16 @@
   - Unrolled list
   - Circular list
   - Queue u
-  - Stack 
+  - Stack u
   - Deque h
   - Tree k
   - Graph k
   - Iterator u
-  - Mutable state 
-  - Immutable state 
+  - Mutable state u
+  - Immutable state u
   - Serialization
   - String parsing u
-  - JSON 
+  - JSON u
   - JSON5 
   - YAML
 - Networking
@@ -137,7 +137,7 @@
   - CORS
   - IPv4 u
   - IPv6 u
-  - NAT 
+  - NAT u
   - URL u
   - URN
   - URI
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 
+  - Debugger u
   - Tracing
   - Garbage collection u
   - Refactoring u
@@ -186,7 +186,7 @@
   - Duplicate code k
   - Premature optimization
   - Micro-optimization
-  - Nested loops 
+  - Nested loops k
   - Long method/function/procedure k
   - Long inheritance k
   - Large class/file k
@@ -202,7 +202,7 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode 
+  - Bytecode u
   - V8
   - VJM
   - CLR
@@ -211,8 +211,8 @@
   - Interrupts
   - Drivers u
   - Kernel u 
-  - Ring 
-  - Virtual memory 
+  - Ring u
+  - Virtual memory u
   - File system u
   - Linux u
   - Unix u
@@ -222,16 +222,16 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII 
+  - ASCII u
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 
+  - Base64 u
   - ECMA
   - ICANN
-  - ISO h
+  - ISO
   - MIME
   - OWASP
   - UTF-8 u

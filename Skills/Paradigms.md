@@ -2,14 +2,14 @@
 
 - Theory
   - Procedural programming 
-  - Imperative programming 
-  - Structured programming 
-  - Non-structured programming 
-  - Functional programming 
+  - Imperative programming u
+  - Structured programming u
+  - Non-structured programming u
+  - Functional programming u
   - Prototype-based programming
   - Object-oriented programming u
   - Object-based programming
-  - Generic programming 
+  - Generic programming u
   - Concurrent computing u
   - Asynchronous programming u
   - Parallel programming u
@@ -31,7 +31,7 @@
   - Operator `new` u 
   - Static method u
   - Method u
-  - Async method 
+  - Async method u
   - Getters, Setters u
   - Public fields u
   - Private fields u

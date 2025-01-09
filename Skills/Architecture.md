@@ -1,16 +1,16 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity u
+  - Components u
+  - Directories u
   - GRASP
-  - SOLID
+  - SOLID u
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Multiparadigm code h
+  - Contract programming h
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -18,7 +18,7 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability 
   - Quality
   - Availability
   - Flexibility
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -53,10 +53,10 @@
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
+  - IaaS k
+  - PaaS k
+  - SaaS k
+  - FaaS clouds k
   - Serverless
   - Vendor lock-in
   - Bus factor
